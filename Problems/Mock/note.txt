@@ -1,0 +1,1 @@
+greedy method - solving problem by taking stages one step and one input at a time
