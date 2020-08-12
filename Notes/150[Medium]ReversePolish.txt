@@ -1,0 +1,4 @@
+
+note : Do not always start thinkg and iterating forward. it costs more performance on some case.
+
+recursion from backward can be beneficial for some case.
