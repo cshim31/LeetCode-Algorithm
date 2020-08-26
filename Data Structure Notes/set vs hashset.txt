@@ -1,0 +1,7 @@
+set vs hashset
+
+set : elements are in sorted order
+
+hashset: faster than set in searching element
+
+if sorted values, using hashset is an ideal
