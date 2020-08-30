@@ -1,0 +1,6 @@
+BackTracking vs Brute Force
+
+key : backTracking keep putting in data until it make sure that data is not key to answer
+once confirmed, remove data from dataset
+
+brute force : once confirmed, put in values to dataset
