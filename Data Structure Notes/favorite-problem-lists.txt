@@ -1,1 +1,5 @@
-number : 48, 5, 39
+number : 48, 5, 39, 98, 141, 152, 190, 191
+
+https://www.geeksforgeeks.org/longest-monotonically-increasing-subsequence-size-n-log-n/
+
+failed problem : 31, 128, 139, 37, 143
